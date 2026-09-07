@@ -1,0 +1,1 @@
+import{o as a,c as r,r as e}from"./cart.xsPK77po.js";function o(){const t=r(e());for(const n of document.querySelectorAll("[data-cart-count]"))n.textContent=String(t),n.hidden=t===0;document.body.dataset.cartEmpty=String(t===0)}o();a(o);

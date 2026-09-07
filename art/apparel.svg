@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img" aria-label="Double garment rail for clothing retail">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdfefe"/><stop offset="0.62" stop-color="#f2f5f8"/><stop offset="1" stop-color="#e7ecf1"/>
+    </linearGradient>
+    <radialGradient id="spot" cx="0.5" cy="0.34" r="0.72">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-25%" y="-45%" width="150%" height="200%">
+      <feGaussianBlur stdDeviation="11"/>
+    </filter>
+    <linearGradient id="steel-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#eceff3"/><stop offset="1" stop-color="#d3d9e0"/>
+    </linearGradient>
+    <linearGradient id="steel-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c3cad3"/><stop offset="1" stop-color="#aab2bd"/>
+    </linearGradient>
+    <linearGradient id="steel-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#98a1ac"/><stop offset="1" stop-color="#7f8894"/>
+    </linearGradient>
+    <linearGradient id="white-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#fbfcfd"/><stop offset="1" stop-color="#eef1f4"/>
+    </linearGradient>
+    <linearGradient id="white-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e4e8ec"/><stop offset="1" stop-color="#ced4da"/>
+    </linearGradient>
+    <linearGradient id="white-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#c2c9d0"/><stop offset="1" stop-color="#a9b2bb"/>
+    </linearGradient>
+    <linearGradient id="mdf-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#e0cba6"/><stop offset="1" stop-color="#d2ba90"/>
+    </linearGradient>
+    <linearGradient id="mdf-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c8ab7c"/><stop offset="1" stop-color="#b2946a"/>
+    </linearGradient>
+    <linearGradient id="mdf-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#a98c61"/><stop offset="1" stop-color="#8e7350"/>
+    </linearGradient>
+    <linearGradient id="wood-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#c9a071"/><stop offset="1" stop-color="#b88c5d"/>
+    </linearGradient>
+    <linearGradient id="wood-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ab7f52"/><stop offset="1" stop-color="#946b43"/>
+    </linearGradient>
+    <linearGradient id="wood-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#8a6440"/><stop offset="1" stop-color="#6f4f31"/>
+    </linearGradient>
+    <linearGradient id="orange-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#f2a56a"/><stop offset="1" stop-color="#e4894a"/>
+    </linearGradient>
+    <linearGradient id="orange-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dd7530"/><stop offset="1" stop-color="#c25d1c"/>
+    </linearGradient>
+    <linearGradient id="orange-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#b85617"/><stop offset="1" stop-color="#93400f"/>
+    </linearGradient>
+    <linearGradient id="rackblue-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#5b83a3"/><stop offset="1" stop-color="#436b8c"/>
+    </linearGradient>
+    <linearGradient id="rackblue-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a5f80"/><stop offset="1" stop-color="#2b4a67"/>
+    </linearGradient>
+    <linearGradient id="rackblue-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#26425c"/><stop offset="1" stop-color="#1a2f43"/>
+    </linearGradient>
+    <linearGradient id="glass-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#e8f1f7"/><stop offset="1" stop-color="#d6e6f0"/>
+    </linearGradient>
+    <linearGradient id="glass-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cfe0ec"/><stop offset="1" stop-color="#b9d0e1"/>
+    </linearGradient>
+    <linearGradient id="glass-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#aec7db"/><stop offset="1" stop-color="#93b2ca"/>
+    </linearGradient>
+    <linearGradient id="chrome-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#f2f5f8"/><stop offset="1" stop-color="#dde3e9"/>
+    </linearGradient>
+    <linearGradient id="chrome-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d0d7df"/><stop offset="1" stop-color="#b5bec8"/>
+    </linearGradient>
+    <linearGradient id="chrome-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#a7b1bd"/><stop offset="1" stop-color="#8b95a1"/>
+    </linearGradient>
+    <linearGradient id="carton-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#dcc49c"/><stop offset="1" stop-color="#c9ac7e"/>
+    </linearGradient>
+    <linearGradient id="carton-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c0a273"/><stop offset="1" stop-color="#a88a5d"/>
+    </linearGradient>
+    <linearGradient id="carton-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#9e8155"/><stop offset="1" stop-color="#836a43"/>
+    </linearGradient>
+    <linearGradient id="red-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#e79b93"/><stop offset="1" stop-color="#d97b70"/>
+    </linearGradient>
+    <linearGradient id="red-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d16b5f"/><stop offset="1" stop-color="#b5544a"/>
+    </linearGradient>
+    <linearGradient id="red-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#a94c42"/><stop offset="1" stop-color="#873a32"/>
+    </linearGradient>
+    <linearGradient id="teal-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#8fbfc2"/><stop offset="1" stop-color="#6ea8ac"/>
+    </linearGradient>
+    <linearGradient id="teal-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5e9da1"/><stop offset="1" stop-color="#487f84"/>
+    </linearGradient>
+    <linearGradient id="teal-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#41757a"/><stop offset="1" stop-color="#31595d"/>
+    </linearGradient>
+    <linearGradient id="dark-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#6d7681"/><stop offset="1" stop-color="#565f6a"/>
+    </linearGradient>
+    <linearGradient id="dark-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4b5460"/><stop offset="1" stop-color="#3a424c"/>
+    </linearGradient>
+    <linearGradient id="dark-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#333b45"/><stop offset="1" stop-color="#242a32"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="480" fill="url(#bg)"/>
+  <rect width="640" height="480" fill="url(#spot)"/>
+  <ellipse cx="330" cy="400" rx="170" ry="16" fill="#142435" opacity="0.16" filter="url(#soft)"/>
+    <polygon points="214,62 226,62 226,348 214,348" fill="url(#chrome-front)"/>
+    <polygon points="226,62 232,58 232,344 226,348" fill="url(#chrome-side)"/>
+    <polygon points="214,62 226,62 232,58 220,58" fill="url(#chrome-top)"/>
+    <polygon points="502,62 514,62 514,348 502,348" fill="url(#chrome-front)"/>
+    <polygon points="514,62 520,58 520,344 514,348" fill="url(#chrome-side)"/>
+    <polygon points="502,62 514,62 520,58 508,58" fill="url(#chrome-top)"/>  <rect x="140" y="118" width="300" height="7" rx="3.5" fill="url(#chrome-front)"/>  <path d="M184 118 l0 -12 a7 7 0 1 1 6 4" fill="none" stroke="#9aa4af" stroke-width="3"/>
+    <path d="M158 130 l14 -9 l12 6 l12 -6 l14 9 l-8 14 l-6 -4 l0 64 l-32 0 l0 -64 l-6 4 z"
+          fill="url(#teal-front)"/>
+    <path d="M210 130 l19.2 -11.4 l0 78 l-19.2 11.4 z"
+          fill="url(#teal-side)" opacity="0.9"/>  <path d="M230 118 l0 -12 a7 7 0 1 1 6 4" fill="none" stroke="#9aa4af" stroke-width="3"/>
+    <path d="M204 130 l14 -9 l12 6 l12 -6 l14 9 l-8 14 l-6 -4 l0 64 l-32 0 l0 -64 l-6 4 z"
+          fill="url(#carton-front)"/>
+    <path d="M256 130 l19.2 -11.4 l0 78 l-19.2 11.4 z"
+          fill="url(#carton-side)" opacity="0.9"/>  <path d="M276 118 l0 -12 a7 7 0 1 1 6 4" fill="none" stroke="#9aa4af" stroke-width="3"/>
+    <path d="M250 130 l14 -9 l12 6 l12 -6 l14 9 l-8 14 l-6 -4 l0 64 l-32 0 l0 -64 l-6 4 z"
+          fill="url(#red-front)"/>
+    <path d="M302 130 l19.2 -11.4 l0 78 l-19.2 11.4 z"
+          fill="url(#red-side)" opacity="0.9"/>  <path d="M322 118 l0 -12 a7 7 0 1 1 6 4" fill="none" stroke="#9aa4af" stroke-width="3"/>
+    <path d="M296 130 l14 -9 l12 6 l12 -6 l14 9 l-8 14 l-6 -4 l0 64 l-32 0 l0 -64 l-6 4 z"
+          fill="url(#steel-front)"/>
+    <path d="M348 130 l19.2 -11.4 l0 78 l-19.2 11.4 z"
+          fill="url(#steel-side)" opacity="0.9"/>  <path d="M368 118 l0 -12 a7 7 0 1 1 6 4" fill="none" stroke="#9aa4af" stroke-width="3"/>
+    <path d="M342 130 l14 -9 l12 6 l12 -6 l14 9 l-8 14 l-6 -4 l0 64 l-32 0 l0 -64 l-6 4 z"
+          fill="url(#dark-front)"/>
+    <path d="M394 130 l19.2 -11.4 l0 78 l-19.2 11.4 z"
+          fill="url(#dark-side)" opacity="0.9"/>  <path d="M414 118 l0 -12 a7 7 0 1 1 6 4" fill="none" stroke="#9aa4af" stroke-width="3"/>
+    <path d="M388 130 l14 -9 l12 6 l12 -6 l14 9 l-8 14 l-6 -4 l0 64 l-32 0 l0 -64 l-6 4 z"
+          fill="url(#orange-front)"/>
+    <path d="M440 130 l19.2 -11.4 l0 78 l-19.2 11.4 z"
+          fill="url(#orange-side)" opacity="0.9"/>  <rect x="140" y="274" width="300" height="7" rx="3.5" fill="url(#chrome-front)"/>  <path d="M184 274 l0 -12 a7 7 0 1 1 6 4" fill="none" stroke="#9aa4af" stroke-width="3"/>
+    <path d="M158 286 l14 -9 l12 6 l12 -6 l14 9 l-8 14 l-6 -4 l0 58 l-32 0 l0 -58 l-6 4 z"
+          fill="url(#red-front)"/>
+    <path d="M210 286 l19.2 -11.4 l0 72 l-19.2 11.4 z"
+          fill="url(#red-side)" opacity="0.9"/>  <path d="M230 274 l0 -12 a7 7 0 1 1 6 4" fill="none" stroke="#9aa4af" stroke-width="3"/>
+    <path d="M204 286 l14 -9 l12 6 l12 -6 l14 9 l-8 14 l-6 -4 l0 58 l-32 0 l0 -58 l-6 4 z"
+          fill="url(#steel-front)"/>
+    <path d="M256 286 l19.2 -11.4 l0 72 l-19.2 11.4 z"
+          fill="url(#steel-side)" opacity="0.9"/>  <path d="M276 274 l0 -12 a7 7 0 1 1 6 4" fill="none" stroke="#9aa4af" stroke-width="3"/>
+    <path d="M250 286 l14 -9 l12 6 l12 -6 l14 9 l-8 14 l-6 -4 l0 58 l-32 0 l0 -58 l-6 4 z"
+          fill="url(#teal-front)"/>
+    <path d="M302 286 l19.2 -11.4 l0 72 l-19.2 11.4 z"
+          fill="url(#teal-side)" opacity="0.9"/>  <path d="M322 274 l0 -12 a7 7 0 1 1 6 4" fill="none" stroke="#9aa4af" stroke-width="3"/>
+    <path d="M296 286 l14 -9 l12 6 l12 -6 l14 9 l-8 14 l-6 -4 l0 58 l-32 0 l0 -58 l-6 4 z"
+          fill="url(#dark-front)"/>
+    <path d="M348 286 l19.2 -11.4 l0 72 l-19.2 11.4 z"
+          fill="url(#dark-side)" opacity="0.9"/>  <path d="M368 274 l0 -12 a7 7 0 1 1 6 4" fill="none" stroke="#9aa4af" stroke-width="3"/>
+    <path d="M342 286 l14 -9 l12 6 l12 -6 l14 9 l-8 14 l-6 -4 l0 58 l-32 0 l0 -58 l-6 4 z"
+          fill="url(#carton-front)"/>
+    <path d="M394 286 l19.2 -11.4 l0 72 l-19.2 11.4 z"
+          fill="url(#carton-side)" opacity="0.9"/>  <path d="M414 274 l0 -12 a7 7 0 1 1 6 4" fill="none" stroke="#9aa4af" stroke-width="3"/>
+    <path d="M388 286 l14 -9 l12 6 l12 -6 l14 9 l-8 14 l-6 -4 l0 58 l-32 0 l0 -58 l-6 4 z"
+          fill="url(#teal-front)"/>
+    <path d="M440 286 l19.2 -11.4 l0 72 l-19.2 11.4 z"
+          fill="url(#teal-side)" opacity="0.9"/>
+    <polygon points="140,100 152,100 152,400 140,400" fill="url(#chrome-front)"/>
+    <polygon points="152,100 158,96 158,396 152,400" fill="url(#chrome-side)"/>
+    <polygon points="140,100 152,100 158,96 146,96" fill="url(#chrome-top)"/>
+    <polygon points="428,100 440,100 440,400 428,400" fill="url(#chrome-front)"/>
+    <polygon points="440,100 446,96 446,396 440,400" fill="url(#chrome-side)"/>
+    <polygon points="428,100 440,100 446,96 434,96" fill="url(#chrome-top)"/>
+    <polygon points="120,400 180,400 254,356 194,356" fill="url(#chrome-top)"/>
+    <polygon points="120,400 180,400 180,410 120,410" fill="url(#chrome-front)"/>
+    <polygon points="180,400 254,356 254,366 180,410" fill="url(#chrome-side)"/>
+    <polygon points="400,400 460,400 534,356 474,356" fill="url(#chrome-top)"/>
+    <polygon points="400,400 460,400 460,410 400,410" fill="url(#chrome-front)"/>
+    <polygon points="460,400 534,356 534,366 460,410" fill="url(#chrome-side)"/>
+</svg>

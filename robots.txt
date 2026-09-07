@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /cart
+Disallow: /checkout
+Disallow: /order-received
+Disallow: /en/cart
+Disallow: /en/checkout
+Disallow: /en/order-received
+Disallow: /api/
+
+Sitemap: https://daker.com.kh/sitemap-index.xml

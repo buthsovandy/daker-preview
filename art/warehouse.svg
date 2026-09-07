@@ -1,0 +1,257 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img" aria-label="Heavy duty warehouse pallet racking">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdfefe"/><stop offset="0.62" stop-color="#f2f5f8"/><stop offset="1" stop-color="#e7ecf1"/>
+    </linearGradient>
+    <radialGradient id="spot" cx="0.5" cy="0.34" r="0.72">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-25%" y="-45%" width="150%" height="200%">
+      <feGaussianBlur stdDeviation="11"/>
+    </filter>
+    <linearGradient id="steel-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#eceff3"/><stop offset="1" stop-color="#d3d9e0"/>
+    </linearGradient>
+    <linearGradient id="steel-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c3cad3"/><stop offset="1" stop-color="#aab2bd"/>
+    </linearGradient>
+    <linearGradient id="steel-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#98a1ac"/><stop offset="1" stop-color="#7f8894"/>
+    </linearGradient>
+    <linearGradient id="white-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#fbfcfd"/><stop offset="1" stop-color="#eef1f4"/>
+    </linearGradient>
+    <linearGradient id="white-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e4e8ec"/><stop offset="1" stop-color="#ced4da"/>
+    </linearGradient>
+    <linearGradient id="white-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#c2c9d0"/><stop offset="1" stop-color="#a9b2bb"/>
+    </linearGradient>
+    <linearGradient id="mdf-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#e0cba6"/><stop offset="1" stop-color="#d2ba90"/>
+    </linearGradient>
+    <linearGradient id="mdf-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c8ab7c"/><stop offset="1" stop-color="#b2946a"/>
+    </linearGradient>
+    <linearGradient id="mdf-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#a98c61"/><stop offset="1" stop-color="#8e7350"/>
+    </linearGradient>
+    <linearGradient id="wood-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#c9a071"/><stop offset="1" stop-color="#b88c5d"/>
+    </linearGradient>
+    <linearGradient id="wood-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ab7f52"/><stop offset="1" stop-color="#946b43"/>
+    </linearGradient>
+    <linearGradient id="wood-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#8a6440"/><stop offset="1" stop-color="#6f4f31"/>
+    </linearGradient>
+    <linearGradient id="orange-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#f2a56a"/><stop offset="1" stop-color="#e4894a"/>
+    </linearGradient>
+    <linearGradient id="orange-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dd7530"/><stop offset="1" stop-color="#c25d1c"/>
+    </linearGradient>
+    <linearGradient id="orange-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#b85617"/><stop offset="1" stop-color="#93400f"/>
+    </linearGradient>
+    <linearGradient id="rackblue-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#5b83a3"/><stop offset="1" stop-color="#436b8c"/>
+    </linearGradient>
+    <linearGradient id="rackblue-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a5f80"/><stop offset="1" stop-color="#2b4a67"/>
+    </linearGradient>
+    <linearGradient id="rackblue-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#26425c"/><stop offset="1" stop-color="#1a2f43"/>
+    </linearGradient>
+    <linearGradient id="glass-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#e8f1f7"/><stop offset="1" stop-color="#d6e6f0"/>
+    </linearGradient>
+    <linearGradient id="glass-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cfe0ec"/><stop offset="1" stop-color="#b9d0e1"/>
+    </linearGradient>
+    <linearGradient id="glass-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#aec7db"/><stop offset="1" stop-color="#93b2ca"/>
+    </linearGradient>
+    <linearGradient id="chrome-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#f2f5f8"/><stop offset="1" stop-color="#dde3e9"/>
+    </linearGradient>
+    <linearGradient id="chrome-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d0d7df"/><stop offset="1" stop-color="#b5bec8"/>
+    </linearGradient>
+    <linearGradient id="chrome-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#a7b1bd"/><stop offset="1" stop-color="#8b95a1"/>
+    </linearGradient>
+    <linearGradient id="carton-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#dcc49c"/><stop offset="1" stop-color="#c9ac7e"/>
+    </linearGradient>
+    <linearGradient id="carton-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c0a273"/><stop offset="1" stop-color="#a88a5d"/>
+    </linearGradient>
+    <linearGradient id="carton-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#9e8155"/><stop offset="1" stop-color="#836a43"/>
+    </linearGradient>
+    <linearGradient id="red-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#e79b93"/><stop offset="1" stop-color="#d97b70"/>
+    </linearGradient>
+    <linearGradient id="red-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d16b5f"/><stop offset="1" stop-color="#b5544a"/>
+    </linearGradient>
+    <linearGradient id="red-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#a94c42"/><stop offset="1" stop-color="#873a32"/>
+    </linearGradient>
+    <linearGradient id="teal-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#8fbfc2"/><stop offset="1" stop-color="#6ea8ac"/>
+    </linearGradient>
+    <linearGradient id="teal-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5e9da1"/><stop offset="1" stop-color="#487f84"/>
+    </linearGradient>
+    <linearGradient id="teal-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#41757a"/><stop offset="1" stop-color="#31595d"/>
+    </linearGradient>
+    <linearGradient id="dark-top" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#6d7681"/><stop offset="1" stop-color="#565f6a"/>
+    </linearGradient>
+    <linearGradient id="dark-front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4b5460"/><stop offset="1" stop-color="#3a424c"/>
+    </linearGradient>
+    <linearGradient id="dark-side" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#333b45"/><stop offset="1" stop-color="#242a32"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="480" fill="url(#bg)"/>
+  <rect width="640" height="480" fill="url(#spot)"/>
+  <ellipse cx="340" cy="396" rx="250" ry="18" fill="#142435" opacity="0.18" filter="url(#soft)"/>
+    <polygon points="144,30 164,30 164,344 144,344" fill="url(#rackblue-front)"/>
+    <polygon points="164,30 170,26 170,340 164,344" fill="url(#rackblue-side)"/>
+    <polygon points="144,30 164,30 170,26 150,26" fill="url(#rackblue-top)"/>
+    <polygon points="594,30 614,30 614,344 594,344" fill="url(#rackblue-front)"/>
+    <polygon points="614,30 620,26 620,340 614,344" fill="url(#rackblue-side)"/>
+    <polygon points="594,30 614,30 620,26 600,26" fill="url(#rackblue-top)"/>
+    <polygon points="98,152 214,152 254.7,127.8 138.7,127.8" fill="url(#wood-top)"/>
+    <polygon points="98,152 214,152 214,164 98,164" fill="url(#wood-front)"/>
+    <polygon points="214,152 254.7,127.8 254.7,139.8 214,164" fill="url(#wood-side)"/>
+    <polygon points="106,108 152,108 189,86 143,86" fill="url(#carton-top)"/>
+    <polygon points="106,108 152,108 152,150 106,150" fill="url(#carton-front)"/>
+    <polygon points="152,108 189,86 189,128 152,150" fill="url(#carton-side)"/>
+    <polygon points="156,108 202,108 239,86 193,86" fill="url(#carton-top)"/>
+    <polygon points="156,108 202,108 202,150 156,150" fill="url(#carton-front)"/>
+    <polygon points="202,108 239,86 239,128 202,150" fill="url(#carton-side)"/>
+    <polygon points="118,68 188,68 225,46 155,46" fill="url(#carton-top)"/>
+    <polygon points="118,68 188,68 188,108 118,108" fill="url(#carton-front)"/>
+    <polygon points="188,68 225,46 225,86 188,108" fill="url(#carton-side)"/>
+    <polygon points="260,152 376,152 416.7,127.8 300.7,127.8" fill="url(#wood-top)"/>
+    <polygon points="260,152 376,152 376,164 260,164" fill="url(#wood-front)"/>
+    <polygon points="376,152 416.7,127.8 416.7,139.8 376,164" fill="url(#wood-side)"/>
+    <polygon points="268,108 314,108 351,86 305,86" fill="url(#carton-top)"/>
+    <polygon points="268,108 314,108 314,150 268,150" fill="url(#carton-front)"/>
+    <polygon points="314,108 351,86 351,128 314,150" fill="url(#carton-side)"/>
+    <polygon points="318,108 364,108 401,86 355,86" fill="url(#carton-top)"/>
+    <polygon points="318,108 364,108 364,150 318,150" fill="url(#carton-front)"/>
+    <polygon points="364,108 401,86 401,128 364,150" fill="url(#carton-side)"/>
+    <polygon points="280,68 350,68 387,46 317,46" fill="url(#carton-top)"/>
+    <polygon points="280,68 350,68 350,108 280,108" fill="url(#carton-front)"/>
+    <polygon points="350,68 387,46 387,86 350,108" fill="url(#carton-side)"/>
+    <polygon points="410,152 526,152 566.7,127.8 450.7,127.8" fill="url(#wood-top)"/>
+    <polygon points="410,152 526,152 526,164 410,164" fill="url(#wood-front)"/>
+    <polygon points="526,152 566.7,127.8 566.7,139.8 526,164" fill="url(#wood-side)"/>
+    <polygon points="418,108 464,108 501,86 455,86" fill="url(#carton-top)"/>
+    <polygon points="418,108 464,108 464,150 418,150" fill="url(#carton-front)"/>
+    <polygon points="464,108 501,86 501,128 464,150" fill="url(#carton-side)"/>
+    <polygon points="468,108 514,108 551,86 505,86" fill="url(#carton-top)"/>
+    <polygon points="468,108 514,108 514,150 468,150" fill="url(#carton-front)"/>
+    <polygon points="514,108 551,86 551,128 514,150" fill="url(#carton-side)"/>
+    <polygon points="430,68 500,68 537,46 467,46" fill="url(#carton-top)"/>
+    <polygon points="430,68 500,68 500,108 430,108" fill="url(#carton-front)"/>
+    <polygon points="500,68 537,46 537,86 500,108" fill="url(#carton-side)"/>
+    <polygon points="70,176 540,176 614,132 144,132" fill="url(#orange-top)"/>
+    <polygon points="70,176 540,176 540,192 70,192" fill="url(#orange-front)"/>
+    <polygon points="540,176 614,132 614,148 540,192" fill="url(#orange-side)"/>
+    <polygon points="98,254 214,254 254.7,229.8 138.7,229.8" fill="url(#wood-top)"/>
+    <polygon points="98,254 214,254 214,266 98,266" fill="url(#wood-front)"/>
+    <polygon points="214,254 254.7,229.8 254.7,241.8 214,266" fill="url(#wood-side)"/>
+    <polygon points="106,210 152,210 189,188 143,188" fill="url(#carton-top)"/>
+    <polygon points="106,210 152,210 152,252 106,252" fill="url(#carton-front)"/>
+    <polygon points="152,210 189,188 189,230 152,252" fill="url(#carton-side)"/>
+    <polygon points="156,210 202,210 239,188 193,188" fill="url(#carton-top)"/>
+    <polygon points="156,210 202,210 202,252 156,252" fill="url(#carton-front)"/>
+    <polygon points="202,210 239,188 239,230 202,252" fill="url(#carton-side)"/>
+    <polygon points="118,170 188,170 225,148 155,148" fill="url(#carton-top)"/>
+    <polygon points="118,170 188,170 188,210 118,210" fill="url(#carton-front)"/>
+    <polygon points="188,170 225,148 225,188 188,210" fill="url(#carton-side)"/>
+    <polygon points="260,254 376,254 416.7,229.8 300.7,229.8" fill="url(#wood-top)"/>
+    <polygon points="260,254 376,254 376,266 260,266" fill="url(#wood-front)"/>
+    <polygon points="376,254 416.7,229.8 416.7,241.8 376,266" fill="url(#wood-side)"/>
+    <polygon points="268,210 314,210 351,188 305,188" fill="url(#carton-top)"/>
+    <polygon points="268,210 314,210 314,252 268,252" fill="url(#carton-front)"/>
+    <polygon points="314,210 351,188 351,230 314,252" fill="url(#carton-side)"/>
+    <polygon points="318,210 364,210 401,188 355,188" fill="url(#carton-top)"/>
+    <polygon points="318,210 364,210 364,252 318,252" fill="url(#carton-front)"/>
+    <polygon points="364,210 401,188 401,230 364,252" fill="url(#carton-side)"/>
+    <polygon points="280,170 350,170 387,148 317,148" fill="url(#carton-top)"/>
+    <polygon points="280,170 350,170 350,210 280,210" fill="url(#carton-front)"/>
+    <polygon points="350,170 387,148 387,188 350,210" fill="url(#carton-side)"/>
+    <polygon points="410,254 526,254 566.7,229.8 450.7,229.8" fill="url(#wood-top)"/>
+    <polygon points="410,254 526,254 526,266 410,266" fill="url(#wood-front)"/>
+    <polygon points="526,254 566.7,229.8 566.7,241.8 526,266" fill="url(#wood-side)"/>
+    <polygon points="418,210 464,210 501,188 455,188" fill="url(#carton-top)"/>
+    <polygon points="418,210 464,210 464,252 418,252" fill="url(#carton-front)"/>
+    <polygon points="464,210 501,188 501,230 464,252" fill="url(#carton-side)"/>
+    <polygon points="468,210 514,210 551,188 505,188" fill="url(#carton-top)"/>
+    <polygon points="468,210 514,210 514,252 468,252" fill="url(#carton-front)"/>
+    <polygon points="514,210 551,188 551,230 514,252" fill="url(#carton-side)"/>
+    <polygon points="430,170 500,170 537,148 467,148" fill="url(#carton-top)"/>
+    <polygon points="430,170 500,170 500,210 430,210" fill="url(#carton-front)"/>
+    <polygon points="500,170 537,148 537,188 500,210" fill="url(#carton-side)"/>
+    <polygon points="70,278 540,278 614,234 144,234" fill="url(#orange-top)"/>
+    <polygon points="70,278 540,278 540,294 70,294" fill="url(#orange-front)"/>
+    <polygon points="540,278 614,234 614,250 540,294" fill="url(#orange-side)"/>
+    <polygon points="98,356 214,356 254.7,331.8 138.7,331.8" fill="url(#wood-top)"/>
+    <polygon points="98,356 214,356 214,368 98,368" fill="url(#wood-front)"/>
+    <polygon points="214,356 254.7,331.8 254.7,343.8 214,368" fill="url(#wood-side)"/>
+    <polygon points="106,312 152,312 189,290 143,290" fill="url(#carton-top)"/>
+    <polygon points="106,312 152,312 152,354 106,354" fill="url(#carton-front)"/>
+    <polygon points="152,312 189,290 189,332 152,354" fill="url(#carton-side)"/>
+    <polygon points="156,312 202,312 239,290 193,290" fill="url(#carton-top)"/>
+    <polygon points="156,312 202,312 202,354 156,354" fill="url(#carton-front)"/>
+    <polygon points="202,312 239,290 239,332 202,354" fill="url(#carton-side)"/>
+    <polygon points="118,272 188,272 225,250 155,250" fill="url(#carton-top)"/>
+    <polygon points="118,272 188,272 188,312 118,312" fill="url(#carton-front)"/>
+    <polygon points="188,272 225,250 225,290 188,312" fill="url(#carton-side)"/>
+    <polygon points="260,356 376,356 416.7,331.8 300.7,331.8" fill="url(#wood-top)"/>
+    <polygon points="260,356 376,356 376,368 260,368" fill="url(#wood-front)"/>
+    <polygon points="376,356 416.7,331.8 416.7,343.8 376,368" fill="url(#wood-side)"/>
+    <polygon points="268,312 314,312 351,290 305,290" fill="url(#carton-top)"/>
+    <polygon points="268,312 314,312 314,354 268,354" fill="url(#carton-front)"/>
+    <polygon points="314,312 351,290 351,332 314,354" fill="url(#carton-side)"/>
+    <polygon points="318,312 364,312 401,290 355,290" fill="url(#carton-top)"/>
+    <polygon points="318,312 364,312 364,354 318,354" fill="url(#carton-front)"/>
+    <polygon points="364,312 401,290 401,332 364,354" fill="url(#carton-side)"/>
+    <polygon points="280,272 350,272 387,250 317,250" fill="url(#carton-top)"/>
+    <polygon points="280,272 350,272 350,312 280,312" fill="url(#carton-front)"/>
+    <polygon points="350,272 387,250 387,290 350,312" fill="url(#carton-side)"/>
+    <polygon points="410,356 526,356 566.7,331.8 450.7,331.8" fill="url(#wood-top)"/>
+    <polygon points="410,356 526,356 526,368 410,368" fill="url(#wood-front)"/>
+    <polygon points="526,356 566.7,331.8 566.7,343.8 526,368" fill="url(#wood-side)"/>
+    <polygon points="418,312 464,312 501,290 455,290" fill="url(#carton-top)"/>
+    <polygon points="418,312 464,312 464,354 418,354" fill="url(#carton-front)"/>
+    <polygon points="464,312 501,290 501,332 464,354" fill="url(#carton-side)"/>
+    <polygon points="468,312 514,312 551,290 505,290" fill="url(#carton-top)"/>
+    <polygon points="468,312 514,312 514,354 468,354" fill="url(#carton-front)"/>
+    <polygon points="514,312 551,290 551,332 514,354" fill="url(#carton-side)"/>
+    <polygon points="430,272 500,272 537,250 467,250" fill="url(#carton-top)"/>
+    <polygon points="430,272 500,272 500,312 430,312" fill="url(#carton-front)"/>
+    <polygon points="500,272 537,250 537,290 500,312" fill="url(#carton-side)"/>
+    <polygon points="70,380 540,380 614,336 144,336" fill="url(#orange-top)"/>
+    <polygon points="70,380 540,380 540,396 70,396" fill="url(#orange-front)"/>
+    <polygon points="540,380 614,336 614,352 540,396" fill="url(#orange-side)"/>
+    <polygon points="70,74 540,74 614,30 144,30" fill="url(#orange-top)"/>
+    <polygon points="70,74 540,74 540,90 70,90" fill="url(#orange-front)"/>
+    <polygon points="540,74 614,30 614,46 540,90" fill="url(#orange-side)"/>
+    <polygon points="70,64 90,64 90,400 70,400" fill="url(#rackblue-front)"/>
+    <polygon points="90,64 96,60 96,396 90,400" fill="url(#rackblue-side)"/>
+    <polygon points="70,64 90,64 96,60 76,60" fill="url(#rackblue-top)"/>
+    <polygon points="520,64 540,64 540,400 520,400" fill="url(#rackblue-front)"/>
+    <polygon points="540,64 546,60 546,396 540,400" fill="url(#rackblue-side)"/>
+    <polygon points="520,64 540,64 546,60 526,60" fill="url(#rackblue-top)"/>
+</svg>
